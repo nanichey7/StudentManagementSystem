@@ -20,4 +20,4 @@ Database: MySQL
 For any questions or feedback, please contact:
 
 Email: chanukyachowdhary@gmail.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chanukya-chowdhary-094b2222b)
+LinkedIn: (https://www.linkedin.com/in/chanukya-chowdhary-094b2222b)
